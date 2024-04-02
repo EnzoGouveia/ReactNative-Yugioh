@@ -1,30 +1,21 @@
-Yu-Gi-Oh! Card Search App
+# Yu-Gi-Oh! Card Search App
+
 Este é um aplicativo React Native para pesquisar informações sobre cartas do jogo de cartas Yu-Gi-Oh!
 
-Funcionalidades
-Pesquisa de cartas por nome
+## Funcionalidades
 
-Instalação
-Certifique-se de ter o ambiente de desenvolvimento React Native configurado em sua máquina. Para mais informações, consulte a documentação oficial do React Native.
+- Pesquisa de cartas por nome
 
-Clone este repositório:
+## Instalação
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/yugioh-card-search-app.git
-Navegue até o diretório do projeto:
+Certifique-se de ter o ambiente de desenvolvimento React Native configurado em sua máquina. Para mais informações, consulte a [documentação oficial do React Native](https://reactnative.dev/docs/environment-setup).
 
-bash
-Copy code
-cd yugioh-card-search-app
-Instale as dependências:
+1. Instale as dependências:
 
-bash
-Copy code
-npm install
-Inicie o aplicativo:
+   ```bash
+   npm install
 
-bash
-Copy code
-npm start
-Isso iniciará o Metro Bundler e fornecerá opções para executar o aplicativo em um emulador/simulador ou em um dispositivo físico.
+2. Inicie o aplicativo:
+
+  ```bash
+   npm start
